@@ -2,7 +2,7 @@
 
 This project was designed to learn with practice all that I learned with paradigms of computer programming, also to understand the Object-Oriented Programming (OOP) concepts, Maven, design patterns, and graphical user interface (GUI) management using JavaFX.
 
-## Language & OOP Concepts
+## Language and Library
 
 Language: Java 17+
 
