@@ -81,7 +81,7 @@ Maven.
 
 Bash
 
-git clone https://github.com/your-username/java-card-collection.git
+git clone 
 
 
 2. Navigate to the folder and build:
