@@ -57,34 +57,24 @@ Tie-breaking : If turns tie, the winner of the previous turn wins the round. If 
 ## Project Structure
 
 .
+
 ├── pom.xml
+
 └── src
+
     └── main
+    
         ├── java
+        
         │   ├── BlackJack.java
-        │   ├── BotPlayer.java
-        │   ├── CardComponents.java
-        │   ├── Card.java
-        │   ├── ClassicCard.java
-        │   ├── Deck.java
-        │   ├── Game.java
-        │   ├── HumanPlayer.java
         │   ├── Main.java
         │   ├── MainScreen.java
-        │   ├── Observable.java
-        │   ├── Observer.java
-        │   ├── PLayer.java
-        │   ├── Ranking.java
-        │   ├── Suit.java
         │   ├── Summod.java
-        │   ├── TrucoCard.java
-        │   ├── TrucoDeck.java
         │   ├── Truco.java
-        │   └── TrucoRanking.java
+        
         └── resources
-            ├── images
-            ├── Kenney.url
-            └── License.txt
+        
+            License, author of the images used
 
 ## Architecture Overview
 
