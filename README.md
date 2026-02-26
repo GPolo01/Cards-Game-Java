@@ -56,11 +56,9 @@ Tie-breaking : If turns tie, the winner of the previous turn wins the round. If 
 
 ## Project Structure
 
-home
-
 ├── pom.xml
-└── src
-    └── main
+├──src
+    ├── main
         ├── java        
         │   ├── BlackJack.java
         │   ├── Main.java
