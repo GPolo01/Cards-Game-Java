@@ -57,23 +57,17 @@ Tie-breaking : If turns tie, the winner of the previous turn wins the round. If 
 ## Project Structure
 
 .
-
 ├── pom.xml
-
 └── src
-
     └── main
-    
         ├── java
         
         │   ├── BlackJack.java
         │   ├── Main.java
         │   ├── MainScreen.java
         │   ├── Summod.java
-        │   ├── Truco.java
-        
+        │   ├── Truco.java       
         └── resources
-        
             License, author of the images used
 
 ## Architecture Overview
